@@ -24,6 +24,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/AddThreeInts.srv"
   "msg/Temp.msg"
+  "action/Fibonacci.action"
 )
 
 if(BUILD_TESTING)

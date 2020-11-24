@@ -25,7 +25,8 @@ setup(
             'temperature_sensor = test_package_jas.temperature_sensor:main',
             'temperature_alert = test_package_jas.temperature_alert:main',
             'service_server_node = test_package_jas.service_server_node:main',
-            'service_client_node = test_package_jas.service_client_node:main'
+            'service_client_node = test_package_jas.service_client_node:main',
+            'fibonacci_action_server = test_package_jas.fibonacci_action_server:main'
         ],
     },
 )

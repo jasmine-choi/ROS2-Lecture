@@ -17,5 +17,6 @@
     <exec_depend>rclpy</exec_depend>
     <exec_depend>std_msgs</exec_depend>
     <exec_depend>example_interfaces</exec_depend>
+    <exec_depend>my_interfaces_chj</exec_depend>
   </export>
 </package>
